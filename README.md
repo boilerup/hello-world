@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-GitHub introduction development,
+GitHub introduction development.
+Trying out the branch function and commit.
